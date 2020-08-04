@@ -1,4 +1,4 @@
-<p> This is simple pizza ordering and tracking the pizza order website devloped by using laravel version 7.8 and front end conatains the use of bootstarp and css and for images are used from UNSPLASH</p>
+<p> This is simple pizza ordering website devloped by using laravel version 7.8 and front end conatains the use of bootstarp and css and for images are used from UNSPLASH</p>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
